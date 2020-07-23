@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://user-images.githubusercontent.com/45563022/88325506-d6975900-cd42-11ea-887e-9e4e2db231be.png"></code>
 
 **GitHub Stats**
+<br />
 <a href="https://github.com/ritesh-sharma33">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-sharma33&hide=jupyter%20notebook&show_icons=true&theme=radical" alt="Ritesh's github stats"/></a>
 
