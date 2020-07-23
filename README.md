@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Full Stack Development and Technical Blogging.
 - ⚡ Fun fact: I am a music lover, cricket lover and a web series lover.
 
-- The technologies and frameworks I work on:
+**Languages and Technologies I work on:**
 <br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
