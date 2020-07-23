@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 
 - The technologies and frameworks I work on:
 <br />
-<div style="display=flex;"><img src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" height="100" width="100" alt="Flutter" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://angular.io/assets/images/logos/angular/angular.png" height="100" width="100" alt="Angular" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png" height="120" width="100" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://pluspng.com/img-png/nodejs-png-node-js-on-light-background-1843.png" height="80" width="100" alt="NodeJS" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" height="80" width="100" alt="Java" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png" height="80" width="100" alt="Spring" />
-</div>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
