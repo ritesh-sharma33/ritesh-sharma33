@@ -7,9 +7,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 I passionately write technical blogs on [Medium](https://medium.com/@sharmaritesh3312).
 - 🔭 I’m currently working on Full Stack Development.
-- 🌱 I’m currently learning GraphQL & DevOps.
 - 💬 Ask me about Full Stack Development and Technical Blogging.
-- ⚡ Fun fact: I am a music lover, cricket lover and a web series lover.
 
 **Languages and Technologies I work on:**
 <br />
